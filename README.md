@@ -39,9 +39,4 @@ import seaborn as sns
 # stats
 from statsmodels.api import tsa # time series analysis
 import statsmodels.api as sm
-bash
-
-
-
-
-
+```bash
