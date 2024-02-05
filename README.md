@@ -1,6 +1,6 @@
 # Stock Price Prediction using ML(Machine Learning)
 
-In this project we aim at analizing and forecasting the stock price of some of the most prominent companies in the Stock Market. They are: Apple; Amazon; Google; Netflix; Nvidia and Tesla.
+In this project we aim at analizing and forecasting the stock price of Apple as well as preparing and cleaning other company's stocks for fitting them to the model in the future.
 
 ## About
 
@@ -15,9 +15,8 @@ The overall workflow to use machine learning to make stocks prediction is as fol
 2. Acquire historical stock price data – this is will make up the dependent variable, or label (what we are trying to predict).
 3. Preprocess data
 4. Use a machine learning model to learn from the data
-5. Backtest the performance of the machine learning model
-6. Acquire current fundamental data
-7. Generate predictions from current fundamental data
+5. Predict the forecasted priced and compare to original prices
+6. Measure the accuracy of the model
 
 This is a very generalised overview, but in principle this is all you need to build a fundamentals-based ML stock predictor.
 
